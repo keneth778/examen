@@ -1,0 +1,51 @@
+.cell{
+    height: 100vh;/**/
+    display: grid;
+    grid-column: 1fr;
+    grid-template-rows:auto;
+    gap: 1rem;
+}
+.borde{
+    border: 8px;
+    margin-top: 3rem;
+    margin-left: 3rem;
+    display: flex;
+    font-size: 1.8rem;
+}
+.ex{
+    margin-top: -28rem;
+    margin-left: 30rem;
+    font-size: 1.8rem;
+    background-color: rgb(56, 53, 53);
+    color: beige;
+    height: 2.5rem;
+    width: 12rem;
+    border-radius: 0.5rem;
+    align-items: center;
+    text-align: center;
+}
+.titulo{
+    margin-top: -43rem;
+    margin-left: 3.5rem;
+    font-size: 1.5rem;
+}
+.primer {
+    margin-left: 4rem;
+    margin-top: 4rem;
+    height: 9rem;
+    width: 40rem;
+    border: 2px solid rgb(14, 13, 13);
+    border-radius: 1.5rem;
+}
+.em{
+    margin-top: 3.5rem;
+    margin-left: 20rem;
+}
+.segundo{
+    width: 15rem;
+    height: 23rem;
+    margin-top: 4rem;
+    margin-left: 4.5rem;
+    border: 2px solid rgb(14, 13, 13);
+    border-radius: 1.5rem;
+}
